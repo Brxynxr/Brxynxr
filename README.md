@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! soy Breyner Manga / Hi there! I'm Breyner Manga </h1>
+<h3 align="center">🚀 Desarrollador de Software en entrenamiento | Software Developer in training</h3>
 
-<!--
-**Brxynxr/Brxynxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí / About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy <b>Desarrollador de Software</b> en <b>entrenamiento</b>, actualmente trabajando en un proyecto para un banco, un programa diseñado para consola que simula las operaciones básicas de un cajero automático.  
+Me apasiona la <b>música, videojuegos, deportes. </b> y <b>disfrutar la vida en general</b>.  
+<i>"Cristo Rey."</i>  
+
+I'm a <b>Sofware developer</b> in <b>training</b>, currently working on a project for a bank, a console-based program that simulates the basic operations of an ATM.  
+I'm passionate about <b>music, videogames, sports,</b>, and <b>enjoying life in general</b>.  
+<i>"Christ is king."</i>  
