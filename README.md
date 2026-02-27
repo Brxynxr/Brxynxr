@@ -10,5 +10,5 @@ Me apasiona la <b>música, videojuegos, deportes. </b> y <b>disfrutar la vida en
 <i>"Cristo Rey."</i>  
 
 I'm a <b>Sofware developer</b> in <b>training</b>, currently working on a project for a bank, a console-based program that simulates the basic operations of an ATM.  
-I'm passionate about <b>music, videogames, sports,</b>, and <b>enjoying life in general</b>.  
+I'm passionate about <b>music, videogames, sports</b>, and <b>enjoying life in general</b>.  
 <i>"Christ is king."</i>  
