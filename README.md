@@ -23,7 +23,13 @@
 
 ### 🚀 About Me
 
-Full-stack developer passionate about artificial intelligence. I specialize in building high-performance web applications, orchestrating distributed data pipelines, and deploying practical generative AI solutions. My daily philosophy is summed up in my motto: ***"turning curiosity into scalable software"***—crafting clean, automated systems designed to solve real-world problems. In a landscape where AI is often adopted without deep reasoning or critical judgment, I take the deliberate path: dissecting how it works under the hood, mastering its underlying processes, and acting as the **agent orchestrator**. Rather than letting technology think for me, I take ownership of identifying problems, defining strategy, and driving technical decisions with total control over every component.
+> 💡 ***"Turning curiosity into scalable software."***
+
+I am a **Software & Data Engineer** and **AI Agent Orchestrator** dedicated to engineering reliable, production-grade systems and pragmatic generative AI solutions. In an era where AI is frequently consumed blindly as a black box, I take a deliberate engineering path: dissecting internal mechanics, understanding how models reason under the hood, and retaining total architectural control.
+
+- 🎯 **Core Focus:** Building high-performance web applications, orchestrating distributed data pipelines, and deploying enterprise RAG architectures with deterministic precision.
+- 🤖 **Agent Orchestrator:** Rather than letting AI think for me, I design multi-agent workflows, define system constraints, and govern technical decisions end-to-end.
+- 🧠 **Engineering Mindset:** AI amplifies human talent, but direction, criteria, and architectural ownership always belong to the engineer. Clean, automated, scalable software built for real-world impact.
 
 ---
 
@@ -137,7 +143,7 @@ Full-stack developer passionate about artificial intelligence. I specialize in b
 ### Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Brxynxr/Brxynxr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
